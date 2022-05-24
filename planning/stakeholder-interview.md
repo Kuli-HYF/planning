@@ -20,9 +20,9 @@
 
 - How do you see/understand the badges system?
 
-- What is its main purpose?
+- What is its main purpose (the badges)?
 
-- How did you come up with the idea?
+- How did you come up with the idea(badges)?
 
 - Which criteria would you use to grant these badges to companies?
 
