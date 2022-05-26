@@ -9,7 +9,7 @@
 - ~~If at the end, we create a big *ss content type at that point (I think)~~ 
 - We can handle registration (I mean creating the company object in Strapi on the first steps of the form)(It shouldn't be one big form, but submit in steps)
 - When this first anonymous user creates the 'review' and thus the company, I guess hän will also create an id? 
-- Maybe when the anonymous user clicks the form, he creates an id, and then this id creates a 'review', and as such a company relation (this company has many relations, as they do ;)). This review is 'included' in this new company object, and future reviewers can from now on select this, or search for this company, and reviews are being added
+- Maybe when the anonymous user clicks the form, he creates an id, and then this id creates a 'review', and as such a company relation (this company has many relations). This review is 'included' in this new company object, and future reviewers can from now on select this, or search for this company, and reviews are being added
 - (Glassdoor for example requires registration up front: https://help.glassdoor.com/s/article/Add-my-company?language=en_US
 - I guess the user registration up front is a way to counter bogus stuff)
 - It would be indeed more user-friendly to not have the sign-up first, but just the query as something to lure users in
