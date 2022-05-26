@@ -11,3 +11,7 @@
 
 #### Relevant websites:
 - https://focus2030.org/global-survey-gender
+
+
+#### Registration of companies on Glassdoor:
+- https://help.glassdoor.com/s/article/Add-my-company?language=en_US
