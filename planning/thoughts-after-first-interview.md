@@ -18,7 +18,6 @@
 - Starting points for now: 
 - https://igvm-iefh.belgium.be/sites/default/files/downloads/39%20-%20Checklist_ENG.pdf
 - https://assets.bbhub.io/company/sites/46/2022/01/Bloomberg-Gender-Equality-Index-Methodology.pdf
-
 - Don't make the survey too long or a drag
 - Don't make it too complex
 - Questions should be relevant and useable to our rating system
