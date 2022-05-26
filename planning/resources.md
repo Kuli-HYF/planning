@@ -7,3 +7,7 @@
 
 - the Belgian Institute For the Equality for Women and Men: https://igvm-iefh.belgium.be/en 
 - their checklist: https://igvm-iefh.belgium.be/sites/default/files/downloads/39%20-%20Checklist_ENG.pdf
+
+
+#### Relevant websites:
+https://focus2030.org/global-survey-gender
