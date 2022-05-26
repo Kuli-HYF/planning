@@ -46,7 +46,7 @@
 
 
 #### If we manage to build all this, an extra can be the map (job-seekers part):
-- Get the geo coordinates from the adress
+- Get the geo coordinates from the address
 - Show a marker on a (Google) map from these coordinates
 - When clicking the marker, show a popup with information about the company's score and badges (from the database)
 - This could lead to a new company page with more detailed information
