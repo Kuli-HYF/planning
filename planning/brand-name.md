@@ -19,7 +19,7 @@ We didn't want to use an English word. Our idea was to pick a name that means hu
 - 'Cul' in French means 'butt'
 
 
-#### Some brands called Kuli:
+#### Some brands named Kuli:
 - Moringa powders, bars & shots: https://www.kulikulifoods.com/
 - A Norwegian fruit-drink, owned by the Coca Cola Company: https://www.coca-cola.no/vare-merkevarer/kuli
 - A vape brand: https://www.kulishop.com/collections/kuli
