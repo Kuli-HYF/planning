@@ -5,6 +5,7 @@
 - Do they start off by filling in the survey and enter the company name?
 - Is the company object created after this?
 - How do we prevent users from creating the same company twice?
+- If we let it up to anonymous employees, what if the company owner doesn't want to be on the website?
 
 
 #### How can we prevent misuse of the platform?
