@@ -24,7 +24,7 @@ We didn't want to use an English word. Our idea was to pick a name that means hu
 - A Norwegian fruit-drink, owned by the Coca Cola Company: https://www.coca-cola.no/vare-merkevarer/kuli
 - A vape brand: https://www.kulishop.com/collections/kuli
 
-#### Name alternatives (mostly found by looking for Latin words):
+#### Name alternatives (mostly found by looking for Latin words)*:
 - comgrade
 - unio
 - amica
@@ -42,4 +42,4 @@ We didn't want to use an English word. Our idea was to pick a name that means hu
 - indago
 
 
-##### most of these sound quite Latin and not as fun as 'Kuli'. 
+##### *most of these sound quite Latin and not as fun as 'Kuli'. 
