@@ -107,3 +107,13 @@
 - When clicking the marker, show a popup with information about the company's score and badges (from the database)
 - This could lead to a new company page with more detailed information
 - Data could be shown in graphs
+
+
+#### The application and the data
+- I think all we need to get back from the questionnaire are a bunch of numbers
+- It would be nice to test if the questionnaire is actually workable beforehand
+- For each portion of the questions of the survey form on our site that have been answered by the user, a calculation should be made, and an according feedback should be displayed
+- upon submit, it would be nice to see a trophy if appropriate, and it would be nice if this could be made possible along the steps of the survey: for example: male/female balance(state): 0.4: 'get the balance right!', 0.8: 'behold: the future, right on!'
+- So while I am writing this, the annoying thing of posting and getting the state already becomes apparent
+- I don't really care if we do have to work with dummy data, because for me the test is in development, not in designing good surveys!
+
