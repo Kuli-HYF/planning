@@ -116,4 +116,4 @@
 - upon submit, it would be nice to see a trophy if appropriate, and it would be nice if this could be made possible along the steps of the survey: for example: male/female balance(state): 0.4: 'get the balance right!', 0.8: 'behold: the future, right on!'
 - So while I am writing this, the annoying thing of posting and getting the state already becomes apparent
 - I don't really care if we do have to work with dummy data, because for me the test is in development, not in designing good surveys!
-
+- I want to stress this: we are not here to become good data collectors, we are here to become good at making nice stuff with the data provided. Let's not get confused! We have enough challenges at hand, let's get together and make a good survey that serves our application to make it work.
