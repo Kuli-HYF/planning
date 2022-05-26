@@ -1,7 +1,7 @@
 ### Some thoughts/questions/input after first stakeholder interview:
 
 #### Who is going to register the company?
-- When the first employee or company owner joins the website, the company doesn't exist yet.
+- When the first employee or company owner joins the website, the company doesn't exist yet
 - Do they start off by filling in the survey and enter the company name?
 - Is the company object created after this?
 - How do we prevent users from creating the same company twice? For example: 'HackYourFuture', 'HYF', 'Hack Your Future'
