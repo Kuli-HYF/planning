@@ -4,7 +4,7 @@
 - When the first employee or company owner joins the website, the company doesn't exist yet
 - Do they start off by filling in the survey and enter the company name?
 - Is the company object created after this?
-- If the first CTA is to fill out the form instead of registring as a user, we run the risk of bogus companies being filed
+- If the first CTA is to fill out the form instead of registering as a user, we run the risk of bogus companies being filed
 - The user that fills out the form at first should always register the company's basic data: the name (and address), be it at start or at ending the form
 - If at the end, we create a big *ss content type at that point (I think)
 - Glassdoor for example requires registration up front: https://help.glassdoor.com/s/article/Add-my-company?language=en_US
