@@ -40,6 +40,7 @@
 - Overall the survey shouldn't feel like a chore, but more similar to a game-like level up system
 - Not a long list, but rather a new screen for each new part with some illustrations
 - If we stick with the name Kuli, 'you are Kulified' could be a thing, like 'qualified'
+- A whole bunch of conditionals
 
 
 #### How can we entice users/companies to participate?
