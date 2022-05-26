@@ -7,7 +7,9 @@
 - If the first CTA is to fill out the form instead of registering as a user, we run the risk of bogus companies being filed
 - The user that fills out the form at first should always register the company's basic data: the name (and address), be it at start or at ending of the form
 - If at the end, we create a big *ss content type at that point (I think)
+- We can handle registration (I mean creating the company object in Strapi on the first steps of the form)
 - Glassdoor for example requires registration up front: https://help.glassdoor.com/s/article/Add-my-company?language=en_US
+- I guess the user registration up front is a way to counter bogus stuff
 - It would be indeed more user-friendly to not have the sign-up first, but just the query as something to lure users in
 - How do we prevent users from creating the same company twice? For example: 'HackYourFuture', 'HYF', 'Hack Your Future'
 - If we let it up to anonymous employees, what if the company owner doesn't want to be on the website?
