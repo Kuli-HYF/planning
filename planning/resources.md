@@ -13,5 +13,6 @@
 - https://focus2030.org/global-survey-gender
 
 
-#### Registration of companies on Glassdoor:
+#### Relevant to Glassdoor:
 - https://help.glassdoor.com/s/article/Add-my-company?language=en_US
+- https://help.glassdoor.com/s/article/I-m-an-employer-What-can-I-do-about-negative-reviews-on-Glassdoor?language=en_US
