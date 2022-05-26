@@ -13,7 +13,7 @@ We didn't want to use an English word. Our idea was to pick a name that means hu
 #### On a literal google search for 'Kuli', not too many bad meanings or connotations appear.
 
 #### It's 'heterographs' might be a bit more troublesome:
-- 'kulli' in Finnish (vulgar) can mean 'male genitalia'
+- 'Kulli' in Finnish (vulgar) can mean 'male genitalia'
 - 'Culi' in Italian means plurar of 'ass'
 - 'Kul' in Dutch means 'nonsense' or 'bullsh*t' (mostly used in flauwekul)
 - 'Cul' in French means 'butt'
