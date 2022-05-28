@@ -4,9 +4,9 @@
 
 | Tasks                       |  Responsible  |  Dateline  |
 | --------------------------- | :-----------: | :--------: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Landing page. First draft  | Aviv | 29/05/2022 |
+| Logo | Mick | 29/5/2022 |
+| User interviews | Daniel | 29/05/2022 |
 |  |  |  |
 |  |  |  |
 
