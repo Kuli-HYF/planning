@@ -7,7 +7,7 @@
 | Landing page. First draft  | Aviv | 29/05/2022 |
 | Logo | Mick | 29/5/2022 |
 | User interviews | Daniel | 29/05/2022 |
-|  |  |  |
+| User personas | Group | 29/05/2022 |
 |  |  |  |
 
 <!-- any general rules you'd like to set for your group? -->
