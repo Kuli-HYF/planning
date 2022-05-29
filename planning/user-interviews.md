@@ -29,3 +29,18 @@ She has faced different sets of challenges during her time as a student and as a
 - For her, the ideal company to work for would be one **not to far from home**, where **English is enough to play a role** and where **diversity and religious openness** is an important part of the environment. **Diversity** seems to her more important than having a "women-centered" working culture.
 
 - Two things that would help a lot when working: **accessible daycare** and **flexible hours**.
+
+### M
+
+M is 23 and is Belgian. She graduated from university not long ago and is currently in her first job in an IT company. M. studied Engineering and Technology with emphasis on Electronics and ICT. Dutch is her mother tongue. She also speaks fluent English. She has been into STEM topics since she was in highschool. First physics and math and then ICT and engineering.
+
+**Problems and challenges:**
+
+- In her experience, **being exposed to technology from a young age** is probably the biggest factor that impacts the participation of women in the IT world.
+
+- From her experience studying with people from other countries, she thinks **language plays a big part in being able to find a job**. Some of her classmates from university struggled to find a job because of this, despite having a certificate from a Belgian institution and technical knowledge.
+
+- Also **applying for jobs and navigating the labour market** can be challenging for foreigners.
+
+### G
+
