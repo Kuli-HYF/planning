@@ -45,3 +45,15 @@ M is 23 and is Belgian. She graduated from university not long ago and is curren
 ### G
 
 G comes from Ethiopia. She has been living in Belgium for 5 years now and is currently working for a project helping people learn web development. She has a Bachelor's degree in administration and has been learning web development and programming since arriving in Belgium. In her experience, access to ICT programs can be difficult for women since is not encourage for young students.
+
+**Problems and challenges:**
+
+- Speaking the language fluently has been a major challenge in order to get a job. Going into IT and development has helped get around this situation.
+
+- Getting the proper education/instruction without having to pay high tuition fees.
+
+- Feeling a bit intimidated in man-controlled environment.
+
+#### Motivations /desires
+
+- Finding job opportunities to grow in the IT sector while having the opportunity to work from home and having a flexible schedule.
