@@ -25,6 +25,17 @@
 | 26/05/2022 | Discord | Check-up call: 20 mins. |
 | 27/05/2022 | Discord | Check-up call: 20 mins. |
 
+## Communication Schedule Week 2
+
+| Day        |     How      | The topic of discussion                         |
+| ---------- | :----------: | ----------------------------------------------- |
+| 30/05/2022 at 10.30 | Discord | Development strategy. Data base and setup repositories if possible |
+| 31/05/2022 at 14.00 | Discord |  |
+| 01/06/2022 at 10.30 | Discord |  |
+| 02/06/2022 at 10.30 | Discord |  |
+| 03/06/2022 at 13.00 | Discord |  |
+| 04/06/2022 at 10.30 | Discord |  |
+
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
