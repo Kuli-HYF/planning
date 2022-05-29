@@ -44,3 +44,4 @@ M is 23 and is Belgian. She graduated from university not long ago and is curren
 
 ### G
 
+G comes from Ethiopia. She has been living in Belgium for 5 years now and is currently working for a project helping people learn web development. 
