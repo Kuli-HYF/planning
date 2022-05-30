@@ -30,7 +30,7 @@
 | Day        |     How      | The topic of discussion                         |
 | ---------- | :----------: | ----------------------------------------------- |
 | 30/05/2022 at 10.30 | Discord | Development strategy. Data base and setup repositories if possible |
-| 31/05/2022 at 14.00 | Discord |  |
+| 31/05/2022 at 14.00 | Discord | Data base and setup repositories |
 | 01/06/2022 at 10.30 | Discord |  |
 | 02/06/2022 at 10.30 | Discord |  |
 | 03/06/2022 at 13.00 | Discord |  |
