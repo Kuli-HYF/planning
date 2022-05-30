@@ -63,6 +63,6 @@
 
 ## could haves
 
-> As a user I can report a suspicious company
+> As a user I can report a suspicious activity
 
-- _there is a report button on the companies' profiles_
+- _there is a report button_
