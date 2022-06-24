@@ -44,7 +44,7 @@ M is 23 and is Belgian. She graduated from university not long ago and is curren
 
 ### G
 
-G comes from Ethiopia. She has been living in Belgium for 5 years now and is currently working for a project helping people learn web development. She has a Bachelor's degree in administration and has been learning web development and programming since arriving in Belgium. In her experience, access to ICT programs can be difficult for women since is not encourage for young students.
+G comes from Ethiopia. She has been living in Belgium for 5 years now and is currently working for a project helping people learn web development. She has a Bachelor's degree in administration and has been learning web development and programming since arriving in Belgium. In her experience, access to ICT programs can be difficult for women since it's not encouraged among young students.
 
 **Problems and challenges:**
 
